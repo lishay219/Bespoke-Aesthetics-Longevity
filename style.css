@@ -43,6 +43,13 @@ html {
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --bg-primary: #121212;      /* A dark theme color */
   --text-primary: #f0f0f0;    /* A light text color */
+   --font-serif: Georgia, "Times New Roman", serif;
+    --accent-gold: #D4AF37;
+  --container-max: 1200px;
+  --text-secondary: #666666;
+  --accent-gold-glow: rgba(212, 175, 55, 0.15);
+    --accent-gold-border: rgba(212, 175, 55, 0.35);
+    --accent-gold-bright: #F7D774;
 }
 
 body {
